@@ -1,4 +1,4 @@
-<h1 align="center">Yeom YungIn</h1>
+<h1 align="center">Yeom YoungIn</h1>
 
 <p align="center">
   Backend Developer focused on reliable service architecture, cloud operations, and measurable performance improvements.
