@@ -19,7 +19,7 @@
 
 - 5년차 백엔드 개발자로, 교육 플랫폼, 여행 매칭 서비스, 콘텐츠 플랫폼, 데이터 플랫폼을 개발하고 운영했습니다.
 - NestJS, Node.js, TypeScript, PostgreSQL, Redis, RabbitMQ 기반의 백엔드 아키텍처 설계와 구현 경험이 있습니다.
-- AWS, Kubernetes(EKS), Terraform, Helm, Docker, Grafana를 활용해 클라우드 인프라와 배포 환경을 운영했습니다.
+- AWS, Kubernetes(EKS), Terraform, Helm, Docker, Grafana 기반의 운영 환경에서 배포, 모니터링, 이슈 확인 등 서비스 운영 흐름을 경험했습니다.
 - 서비스 운영, 장애 대응, 일정 관리, 개발팀 리드, 협업 프로세스 운영까지 제품 개발 전반에 참여했습니다.
 - 기술적 제약과 비즈니스 요구사항을 함께 고려해 현실적인 해결책을 제안하는 개발자를 지향합니다.
 
